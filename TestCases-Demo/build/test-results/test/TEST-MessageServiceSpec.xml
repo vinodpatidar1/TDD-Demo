@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MessageServiceSpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-07-24T09:21:28" hostname="ATLANTISPC-1185" time="0.071">
+  <properties/>
+  <testcase name="Should not be run" classname="MessageServiceSpec" time="0.011"/>
+  <testcase name="API to Test Mocking" classname="MessageServiceSpec" time="0.058"/>
+  <testcase name="API to add numbers" classname="MessageServiceSpec" time="0.002"/>
+  <system-out><![CDATA[Should not be run
+WARNING: JMockit was initialized on demand, which may cause certain tests to fail;
+please check the documentation for better ways to get it initialized.
+]]></system-out>
+  <system-err><![CDATA[log4j:WARN No appenders could be found for logger (com.athaydes.spockframework.report.SpockReportExtension).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+]]></system-err>
+</testsuite>
