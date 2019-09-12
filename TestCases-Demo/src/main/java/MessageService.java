@@ -1,7 +1,7 @@
 
 public class MessageService {
 	public String getMessage() {
-		return "Hello World!"; // Hello 1
+		return "Hello World!"; // Hello 1 c
 	}
 
 	public String mockMethod(String strValue) {
